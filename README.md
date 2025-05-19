@@ -17,8 +17,8 @@ This app forces the mobile version of the site into a fixed, responsive frame us
 
 ### 📲 Mobile view emulated on desktop
 
-![Screenshot 1](https://raw.githubusercontent.com/mndfck/SpaceAI-Desktop/assets/refs/heads/images/SpaceAI_desktop_1.png)
-![Screenshot 2](https://raw.githubusercontent.com/mndfck/SpaceAI-Desktop/assets/refs/heads/images/SpaceAI_desktop_2.png)
+![Screenshot 1](https://raw.githubusercontent.com/Mndfck/SpaceAI-Desktop/refs/heads/main/SpaceAI_desktop_1.png)
+![Screenshot 2](https://raw.githubusercontent.com/Mndfck/SpaceAI-Desktop/refs/heads/main/SpaceAI_desktop_2.png)
 
 
 ## 📦 Download
