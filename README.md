@@ -23,7 +23,7 @@ This app forces the mobile version of the site into a fixed, responsive frame us
 
 ## 📦 Download
 
-📥 [Download SpaceAI Desktop (.exe)](https://github.com/Mndfck/SpaceAI-Desktop/releases/download/stable/SpaceAI-Desktop_v1.0.0.exe)
+📥 [Download SpaceAI Desktop (.exe)](https://github.com/Mndfck/SpaceAI-Desktop/releases/download/stable/SpaceAI-Desktop_v1.0.1.exe)
 
 > Or visit the [latest release page](https://github.com/Mndfck/SpaceAI-Desktop/releases/tag/stable)
 
